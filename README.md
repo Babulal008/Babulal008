@@ -20,10 +20,10 @@
 ---
 
 ### 📚 About Me
-- 🔧 I specialize in **Full Stack Development**.
+- 💻 I specialize in Full Stack & Blockchain Development, building scalable web applications, decentralized apps (dApps), and smart contracts with Web3 technologies.
 - 🌟 Technologies: ** Blockchain Development (Solidity, Ethereum, Smart Contracts, Web3.js, Hardhat, Truffle, Polygon, Binance Smart Chain, NFT Development),HTML, CSS, JavaScript, React, Next.js, React Native, Tailwind, Python, TypeScript, Vue, AWS, MongoDB, Node.js, SQL, MySQL, PHP, Laravel, Redux, Docker**.
-- 💪 Currently building amazing things with React, Next.js & Blockchain – crafting decentralized apps (dApps), smart contracts, and Web3 solutions.**.
--✨ Always learning and exploring new tech, especially in Web3, DeFi, NFTs, and smart contract development.
+- 💪 Currently building amazing things with React, Next.js & Blockchain – crafting decentralized apps (dApps), smart contracts, and Web3 solutions**.
+- ✨ Always learning and exploring new tech.
 ---
 ## 🏆 **GitHub Trophies**
 <p align="center">
