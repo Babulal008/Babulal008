@@ -4,7 +4,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Babulal008 !</h1>
-<h3 align="center">A Full Stack Developer passionate about building scalable web applications.</h3>
+<h3 align="center">🔗 Blockchain & Full Stack Developer focused on building secure, scalable, and decentralized applications.
+</h3>
 
 
 
@@ -13,46 +14,30 @@
 
 ---
 
-### 📚 About Me
-- 💻 I specialize in Full Stack & Blockchain Development, building scalable web applications, decentralized apps (dApps), and smart contracts with Web3 technologies.
-- 🌟 Technologies: ** Blockchain Development (Solidity, Ethereum, Smart Contracts, Web3.js, Hardhat, Truffle, Polygon, Binance Smart Chain, NFT Development),HTML, CSS, JavaScript, React, Next.js, React Native, Tailwind, Python, TypeScript, Vue, AWS, MongoDB, Node.js, SQL, MySQL, PHP, Laravel, Redux, Docker**.
-- 💪 Currently building amazing things with React, Next.js & Blockchain – crafting decentralized apps (dApps), smart contracts, and Web3 solutions**.
-- ✨ Always learning and exploring new tech.
----
-## 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Babulal008&theme=darkhub&no-frame=true&column=6">
-</p>
+📚 About Me
 
----
+🚀 I specialize in Blockchain Development, crafting decentralized apps (dApps), writing smart contracts, and integrating Web3 technologies with modern frontend frameworks.
+
+💼 I work across Ethereum, Polygon, and BSC, using tools like Solidity, Hardhat, Truffle, Web3.js, and Ethers.js to bring blockchain ideas to life.
+
+🛠️ From smart contract development to full-stack dApp integration, I bridge the gap between blockchain protocols and user-friendly interfaces.
+
+🧠 Tech Stack
+Blockchain: Solidity, Ethereum, Smart Contracts, Web3.js, Ethers.js, Hardhat, Truffle, Polygon, Binance Smart Chain, NFT Development
+Frontend: React, Next.js, React Native, Vue, Tailwind CSS, JavaScript, TypeScript, HTML, CSS
+Backend: Node.js, Express, Python, PHP, Laravel
+Databases: MongoDB, MySQL, SQL
+Others: AWS, Docker, Redux
+
+🔨 Currently Working On
+Building dApps with React, Next.js & Solidity
+
+Writing secure and gas-optimized smart contracts
+
+Web3 wallet integrations and DeFi features
+
+🌱 Always Learning
+Exploring zk-SNARKs, L2 scaling, and advanced smart contract patterns to push the boundaries of decentralized tech.
 
 
-### 💻 Tech Stack
-<div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="Solidity" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" height="30" alt="Ethereum" />
-<img src="https://cryptologos.cc/logos/polygon-matic-logo.png?v=025" height="30" alt="Polygon" />
-<img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=025" height="30" alt="Binance Smart Chain" />
-
-<img src="https://avatars.githubusercontent.com/u/22213699?s=200&v=4" height="30" alt="Truffle" />
-
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-</div>
 
