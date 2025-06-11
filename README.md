@@ -24,13 +24,9 @@
 
 🧠 Tech Stack
 Blockchain: Solidity, Ethereum, Smart Contracts, Web3.js, Ethers.js, Hardhat, Truffle, Polygon, Binance Smart Chain, NFT Development
-Frontend: React, Next.js, React Native, Vue, Tailwind CSS, JavaScript, TypeScript, HTML, CSS
-Backend: Node.js, Express, Python, PHP, Laravel
-Databases: MongoDB, MySQL, SQL
-Others: AWS, Docker, Redux
 
 🔨 Currently Working On
-Building dApps with React, Next.js & Solidity
+Building dApps & Solidity
 
 Writing secure and gas-optimized smart contracts
 
