@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Babulal008 !</h1>
-<h3 align="center">🔗 Blockchain & Full Stack Developer focused on building secure, scalable, and decentralized applications.
+<h3 align="center">🔗 Blockchain Developer focused on building secure, scalable, and decentralized applications.
 </h3>
 
 
